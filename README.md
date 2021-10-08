@@ -2,7 +2,7 @@
 
 I'm Jake, a college student who's passionate about programming and constantly learning new things. I am also an avid Neovim user.
 
-- 🌱 I’m currently learning Go and following a book on how to write an Interpreter. 
+- 🌱 I’m currently learning Go by following a book on how to write an Interpreter for a custom language called Monkey. 
 - ⚡ Fun fact: I'm a Sophomore in college
 - 📫 How to reach me: `jcorrenti13 <at> gmail.com`
 - 📚 Programming languages I enjoy writing in: `C`, `Rust`, `Go`
