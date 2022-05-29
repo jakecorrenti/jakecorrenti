@@ -2,10 +2,11 @@
 
 I'm Jake, a college student who's passionate about programming and constantly learning new things. I am also an avid Neovim user.
 
-- 🌱 I am interested in Operating Systems and low-level programming
+- 🌱 I am interested in Containers, Operating Systems, low-level programming
 - ⚡ Fun fact: I'm a Sophomore in college
 - 📫 How to reach me: `jcorrenti13 <at> gmail.com`
 - 📚 Programming languages I enjoy writing in: `C`, `Rust`, `Go`
+- 🔭 I’m currently working on the Podman team at Red Hat as a SWE Intern
 <!--
 **jakecorrenti/jakecorrenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
