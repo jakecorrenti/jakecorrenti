@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakecorrenti&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakecorrenti&show_icons=true&theme=city_lights&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakecorrenti&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakecorrenti&show_icons=true&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
