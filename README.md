@@ -6,7 +6,7 @@ I'm Jake, a college student who's passionate about programming and constantly le
 - ⚡ Fun fact: I'm a Sophomore in college
 - 📫 How to reach me: `jcorrenti13 <at> gmail.com`
 - 📚 Programming languages I enjoy writing in: `C`, `Rust`, `Go`
-- 🔭 I’m currently working on the [Podman](https://github.com/containers/podman) team at Red Hat as a SWE Intern
+- 🔭 I’m currently a Container Runtimes Intern at Red Hat
 <!--
 **jakecorrenti/jakecorrenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
