@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakecorrenti&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakecorrenti&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
