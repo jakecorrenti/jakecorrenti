@@ -3,7 +3,7 @@
 I'm Jake, a college student who's passionate about programming and constantly learning new things. I am also an avid Neovim user.
 
 - 🌱 I am interested in Containers, Operating Systems, low-level programming
-- ⚡ Fun fact: I'm a Sophomore in college
+- ⚡ Fun fact: I'm a Junior in college
 - 📫 How to reach me: `jcorrenti13 <at> gmail.com`
 - 📚 Programming languages I enjoy writing in: `Rust` & `Go`
 <!--
