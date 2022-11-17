@@ -4,7 +4,7 @@ I'm Jake, a college student who's passionate about programming and constantly le
 
 - 🌱 I am interested in Containers, Operating Systems, low-level programming
 - ⚡ Fun fact: I'm a Junior in college
-- 📫 How to reach me: `jcorrenti13 <at> gmail.com`
+- 📫 How to reach me: `jakecorrenti+github <at> proton.me`
 - 📚 Programming languages I enjoy writing in: `Rust` & `Go`
 <!--
 **jakecorrenti/jakecorrenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
