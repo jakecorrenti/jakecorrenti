@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Jake, a college student who's passionate about programming and constantly learning new things. I am also an avid Neovim user.
+I'm Jake, an Associate Software Engineer and college student who's passionate about programming and constantly learning new things.
 
-- 🌱 I am interested in Containers, Operating Systems, low-level programming
+- 🌱 I work on Virtualization and Container technologies
 - ⚡ Fun fact: I'm a Senior in College
 - 📫 How to reach me: `jakecorrenti+github <at> proton.me`
 - 📚 Programming languages I enjoy writing in: `Go` & `Rust`
