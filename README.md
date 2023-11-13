@@ -5,7 +5,7 @@ I'm Jake, an Associate Software Engineer and college student who's passionate ab
 - 🌱 I work on Virtualization and Container technologies
 - ⚡ Fun fact: I'm a Senior in College
 - 📫 How to reach me: `jakecorrenti+github <at> proton.me`
-- 📚 Programming languages I enjoy writing in: `Go` & `Rust`
+- 📚 Programming languages I enjoy using: `Go` & `Rust`
 <!--
 **jakecorrenti/jakecorrenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
