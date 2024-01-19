@@ -2,7 +2,7 @@
 
 I'm Jake, an Associate Software Engineer and college student who's passionate about programming and constantly learning new things.
 
-- 🌱 I work on Virtualization and Container technologies
+- 🌱 I work on Confidential Computing and Container technologies
 - ⚡ Fun fact: I'm a Senior in College
 - 📚 Programming languages I enjoy using: `Go` & `Rust`
 <!--
