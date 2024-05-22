@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm Jake, an Associate Software Engineer and college student who's passionate about programming and constantly learning new things.
+I'm Jake, an Associate Software Engineer at Red Hat who's passionate about programming and constantly learning new things.
 
-- 🌱 I work on Confidential Computing and Container technologies
-- ⚡ Fun fact: I'm a Senior in College
+- 🔭 I’m currently working on enabling Confidential Computing and Container Technologies
 - 📚 Programming languages I enjoy using: `Go` & `Rust`
 <!--
 **jakecorrenti/jakecorrenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
