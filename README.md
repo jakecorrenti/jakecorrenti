@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jake, an Associate Software Engineer at Red Hat who's passionate about programming and constantly learning new things.
+I'm Jake, a Software Engineer at Red Hat who's passionate about programming and constantly learning new things.
 
 - 🔭 I’m currently working on enabling Confidential Computing and Container Technologies
 - 📚 Programming languages I enjoy using: `Go` & `Rust`
